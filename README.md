@@ -1,1 +1,1 @@
-This is matthevvv's first git project!
+This is matthevvv's first git project! Currently working through the Odin Project and learning to code.
